@@ -1,6 +1,9 @@
-# shopping-list-kotlin
+# Shopping List (Flutter)
 
-
+<p float="left">
+  <img src="assets/1.jpg" alt="drawing" width="200"/> 
+  <img src="assets/2.jpg" alt="drawing" width="200"/>
+</p>
 
 The goal of the application is to make everyday shopping easier by enabling the user to list down items to buy.
 Using 'My Shopping List' application the user can add/delete new items to buy, and while using it the user can check/uncheck according to the user's needs.
